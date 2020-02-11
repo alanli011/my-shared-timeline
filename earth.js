@@ -4,6 +4,6 @@
     "dinosaurs": 100,
     "asteroids": 300,
     "mammoths": 250,
-    "humans": 100+,
+    "humans": 0,
   ]
 }

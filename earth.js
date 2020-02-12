@@ -1,9 +1,9 @@
 {
   "name": "Earth",
   "populations": [
-    "dinosaurs": 100,
-    "asteroids": 300,
-    "mammoths": 250,
-    "humans": 0,
+    "dinosaurs": 230,
+    "asteroids": 10,
+    "mammoths": 300,
+    "humans": 100000,
   ]
 }
